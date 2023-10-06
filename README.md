@@ -1,11 +1,24 @@
+# Project Name: Student Portfolio
 
+## Student Details
+- **Name:** Saaqib Shaikh
+- **Roll no:** 9502
+- **Batch:** D
+- **Branch:** Electronics and Computer Science
+- **Technologies used:** HTML, CSS, JS
 
-Name- Saaqib Shaikh\n
-Roll no- 9502
-Batch- D
-Branch- Electronics and Computer Science
-Technologies used- HTML,CSS,JS
+## Project Description
+This is a student portfolio website showcasing Saaqib Shaikh's academic and technical information. It includes details about the student's roll number, batch, branch, and the technologies used in the project.
 
-![image](https://github.com/SaaqibShaikh/9502_Saaqib/assets/113772083/84ada707-3d89-4eb9-97ff-aa9224de6150)
-![image](https://github.com/SaaqibShaikh/9502_Saaqib/assets/113772083/4a4a88c1-4976-4a25-8906-36ac0a9ccc0d)
-![image](https://github.com/SaaqibShaikh/9502_Saaqib/assets/113772083/f90a9362-80b2-4f13-9bb5-4845829e325f)
+## Screenshots
+![Screenshot 1](https://github.com/SaaqibShaikh/9502_Saaqib/assets/113772083/84ada707-3d89-4eb9-97ff-aa9224de6150)
+![Screenshot 2](https://github.com/SaaqibShaikh/9502_Saaqib/assets/113772083/4a4a88c1-4976-4a25-8906-36ac0a9ccc0d)
+![Screenshot 3](https://github.com/SaaqibShaikh/9502_Saaqib/assets/113772083/f90a9362-80b2-4f13-9bb5-4845829e325f)
+
+## Usage
+To view the website, open the provided HTML file in your web browser.
+
+## License
+This project is open-source and available under the [MIT License](LICENSE).
+
+Feel free to contribute or use this project as a template for your own portfolio website.
