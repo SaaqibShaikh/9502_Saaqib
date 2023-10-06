@@ -17,8 +17,3 @@ This is a student portfolio website showcasing Saaqib Shaikh's academic and tech
 
 ## Usage
 To view the website, open the provided HTML file in your web browser.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
-Feel free to contribute or use this project as a template for your own portfolio website.
